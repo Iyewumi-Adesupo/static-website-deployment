@@ -32,6 +32,6 @@ The next step is to Reload NGINX to Apply the Changes. See below:
 
 <img width="946" alt="nginx reload" src="https://github.com/Iyewumi-Adesupo/static-website-deployment/assets/135404420/f1c6b9c5-9e44-412f-84b3-eb4d674b4ca2">
 
-Lastly, Static Website is deployed stating name, email address, username and also mentioned the internship programme and the link. The website is accessibled with the port 80 after deployment.
+Lastly, Static Website is deployed stating name, email address, username and also mentioned the internship programme and the link. The website is accessible with the port 80 after deployment.
 
 <img width="956" alt="8 static website deployed" src="https://github.com/Iyewumi-Adesupo/static-website-deployment/assets/135404420/30b34869-30fa-463b-92a6-d7925b56a1b4">
