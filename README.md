@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Static Website Deployment</h1>
-<p id="description"> Deployment of a Static Website on AWS EC2 with NGINX
-First, an AWS EC2 Instance will be set up, launched and connected. See the below:
+<p id="description"> Deployment of a Static Website on AWS EC2 with NGINX, an AWS EC2 Instance will be set up, launched and connected. See the below:
 
 <img width="958" alt="Screenshot 2024-07-04 003525" src="https://github.com/Iyewumi-Adesupo/static-website-deployment/assets/135404420/c5fd7930-1c7a-43eb-a80d-051c9f2be946">
 
